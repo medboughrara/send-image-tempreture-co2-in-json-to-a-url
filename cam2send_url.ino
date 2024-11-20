@@ -12,8 +12,8 @@
 
 
 
-const char* ssid = "Khiari's Galaxy A21s"; 
-const char* password = "UwUUUUUUU";    
+const char* ssid = "wifi name"; 
+const char* password = "pass";    
 WebServer server(80);                    
 
 
